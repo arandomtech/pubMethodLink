@@ -1,1 +1,2 @@
-link_here.com
+game:GetService("TeleportService"):TeleportAsync(0, {player}, Instance.new("TeleportOptions"))
+
